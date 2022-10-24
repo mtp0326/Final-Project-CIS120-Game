@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/Users/mattpark/Downloads/hw09_local_temp/src/main/java/org/cis120/AmericaOnDiet/mushroom/GameCourt.java">
+<error line="17" column="1" severity="warning" message="Redundant import from the java.lang package - java.lang.*." source="com.puppycrawl.tools.checkstyle.checks.imports.RedundantImportCheck"/>
+<error line="31" column="24" severity="warning" message="Variable &apos;startTime&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="37" column="23" severity="warning" message="Variable &apos;wave&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="150" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="344" column="67" severity="warning" message="Expression can be simplified." source="com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanExpressionCheck"/>
+<error line="388" column="19" severity="warning" message="Expression can be simplified." source="com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanExpressionCheck"/>
+</file>
+<file name="/Users/mattpark/Downloads/hw09_local_temp/src/main/java/org/cis120/AmericaOnDiet/mushroom/Pie.java">
+<error line="22" column="23" severity="warning" message="Name &apos;INIT_POS_X&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+<error line="22" column="23" severity="warning" message="Variable &apos;INIT_POS_X&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="23" column="23" severity="warning" message="Name &apos;INIT_POS_Y&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+<error line="23" column="23" severity="warning" message="Variable &apos;INIT_POS_Y&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="25" column="23" severity="warning" message="Name &apos;INIT_VEL_X&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+<error line="25" column="23" severity="warning" message="Variable &apos;INIT_VEL_X&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="26" column="23" severity="warning" message="Name &apos;INIT_VEL_Y&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+<error line="26" column="23" severity="warning" message="Variable &apos;INIT_VEL_Y&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="27" column="23" severity="warning" message="Variable &apos;number&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="28" column="23" severity="warning" message="Variable &apos;counterLimit&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+</file>
+<file name="/Users/mattpark/Downloads/hw09_local_temp/src/main/java/org/cis120/AmericaOnDiet/mushroom/JUnitTest.java">
+<error line="8" column="8" severity="warning" message="Unused import - java.awt.event.ActionEvent." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="9" column="8" severity="warning" message="Unused import - java.awt.event.ActionListener." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="10" column="8" severity="warning" message="Unused import - java.awt.event.KeyAdapter." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="11" column="8" severity="warning" message="Unused import - java.awt.event.KeyEvent." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="12" column="8" severity="warning" message="Unused import - java.util.ArrayList." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="13" column="1" severity="warning" message="Redundant import from the java.lang package - java.lang.*." source="com.puppycrawl.tools.checkstyle.checks.imports.RedundantImportCheck"/>
+<error line="38" column="13" severity="warning" message="Name &apos;init_position&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+<error line="51" column="13" severity="warning" message="Name &apos;init_position&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+</file>
+<file name="/Users/mattpark/Downloads/hw09_local_temp/src/main/java/org/cis120/AmericaOnDiet/mushroom/StartingImage.java">
+<error line="11" column="23" severity="warning" message="Name &apos;INIT_POS_X&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+<error line="11" column="23" severity="warning" message="Variable &apos;INIT_POS_X&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="12" column="23" severity="warning" message="Name &apos;INIT_POS_Y&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+<error line="12" column="23" severity="warning" message="Variable &apos;INIT_POS_Y&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="13" column="23" severity="warning" message="Name &apos;INIT_VEL_X&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+<error line="13" column="23" severity="warning" message="Variable &apos;INIT_VEL_X&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="14" column="23" severity="warning" message="Name &apos;INIT_VEL_Y&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+<error line="14" column="23" severity="warning" message="Variable &apos;INIT_VEL_Y&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+</file>
+<file name="/Users/mattpark/Downloads/hw09_local_temp/src/main/java/org/cis120/AmericaOnDiet/mushroom/Cake.java">
+<error line="22" column="23" severity="warning" message="Name &apos;INIT_POS_X&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+<error line="22" column="23" severity="warning" message="Variable &apos;INIT_POS_X&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="23" column="23" severity="warning" message="Name &apos;INIT_POS_Y&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+<error line="23" column="23" severity="warning" message="Variable &apos;INIT_POS_Y&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="25" column="23" severity="warning" message="Name &apos;INIT_VEL_X&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+<error line="25" column="23" severity="warning" message="Variable &apos;INIT_VEL_X&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="26" column="23" severity="warning" message="Name &apos;INIT_VEL_Y&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+<error line="26" column="23" severity="warning" message="Variable &apos;INIT_VEL_Y&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="27" column="23" severity="warning" message="Variable &apos;number&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+</file>
+<file name="/Users/mattpark/Downloads/hw09_local_temp/src/main/java/org/cis120/AmericaOnDiet/mushroom/MandM.java">
+<error line="22" column="23" severity="warning" message="Name &apos;INIT_POS_X&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+<error line="22" column="23" severity="warning" message="Variable &apos;INIT_POS_X&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="23" column="23" severity="warning" message="Name &apos;INIT_POS_Y&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+<error line="23" column="23" severity="warning" message="Variable &apos;INIT_POS_Y&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="25" column="23" severity="warning" message="Name &apos;INIT_VEL_X&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+<error line="25" column="23" severity="warning" message="Variable &apos;INIT_VEL_X&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="26" column="23" severity="warning" message="Name &apos;INIT_VEL_Y&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+<error line="26" column="23" severity="warning" message="Variable &apos;INIT_VEL_Y&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="27" column="23" severity="warning" message="Variable &apos;number&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+</file>
+<file name="/Users/mattpark/Downloads/hw09_local_temp/src/main/java/org/cis120/AmericaOnDiet/mushroom/Bullet.java">
+<error line="10" column="8" severity="warning" message="Unused import - org.cis120.Game." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="17" column="8" severity="warning" message="Unused import - java.util.ArrayList." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="26" column="23" severity="warning" message="Name &apos;INIT_POS_X&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+<error line="26" column="23" severity="warning" message="Variable &apos;INIT_POS_X&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="27" column="23" severity="warning" message="Name &apos;INIT_POS_Y&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+<error line="27" column="23" severity="warning" message="Variable &apos;INIT_POS_Y&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="28" column="23" severity="warning" message="Name &apos;INIT_VEL_X&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+<error line="28" column="23" severity="warning" message="Variable &apos;INIT_VEL_X&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="29" column="23" severity="warning" message="Name &apos;INIT_VEL_Y&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+<error line="29" column="23" severity="warning" message="Variable &apos;INIT_VEL_Y&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+</file>
+<file name="/Users/mattpark/Downloads/hw09_local_temp/src/main/java/org/cis120/AmericaOnDiet/mushroom/Donut.java">
+<error line="22" column="23" severity="warning" message="Name &apos;INIT_POS_X&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+<error line="22" column="23" severity="warning" message="Variable &apos;INIT_POS_X&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="23" column="23" severity="warning" message="Name &apos;INIT_POS_Y&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+<error line="23" column="23" severity="warning" message="Variable &apos;INIT_POS_Y&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="25" column="23" severity="warning" message="Name &apos;INIT_VEL_X&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+<error line="25" column="23" severity="warning" message="Variable &apos;INIT_VEL_X&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="26" column="23" severity="warning" message="Name &apos;INIT_VEL_Y&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+<error line="26" column="23" severity="warning" message="Variable &apos;INIT_VEL_Y&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="27" column="23" severity="warning" message="Variable &apos;number&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="28" column="23" severity="warning" message="Variable &apos;counterLimit&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+</file>
+<file name="/Users/mattpark/Downloads/hw09_local_temp/src/main/java/org/cis120/AmericaOnDiet/mushroom/EndingSquares.java">
+<error line="10" column="1" severity="warning" message="Redundant import from the same package - org.cis120.AmericaOnDiet.mushroom.GameCourt." source="com.puppycrawl.tools.checkstyle.checks.imports.RedundantImportCheck"/>
+<error line="11" column="1" severity="warning" message="Redundant import from the same package - org.cis120.AmericaOnDiet.mushroom.GameObj." source="com.puppycrawl.tools.checkstyle.checks.imports.RedundantImportCheck"/>
+<error line="55" column="44" severity="warning" message="Expression can be simplified." source="com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanExpressionCheck"/>
+</file>
+<file name="/Users/mattpark/Downloads/hw09_local_temp/src/main/java/org/cis120/AmericaOnDiet/mushroom/Marshmallow.java">
+<error line="22" column="23" severity="warning" message="Name &apos;INIT_POS_X&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+<error line="22" column="23" severity="warning" message="Variable &apos;INIT_POS_X&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="23" column="23" severity="warning" message="Name &apos;INIT_POS_Y&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+<error line="23" column="23" severity="warning" message="Variable &apos;INIT_POS_Y&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="25" column="23" severity="warning" message="Name &apos;INIT_VEL_X&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+<error line="25" column="23" severity="warning" message="Variable &apos;INIT_VEL_X&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="26" column="23" severity="warning" message="Name &apos;INIT_VEL_Y&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+<error line="26" column="23" severity="warning" message="Variable &apos;INIT_VEL_Y&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="27" column="23" severity="warning" message="Variable &apos;number&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="28" column="23" severity="warning" message="Variable &apos;count&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+</file>
+</checkstyle>
